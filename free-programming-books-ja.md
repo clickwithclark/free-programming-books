@@ -55,6 +55,7 @@
 * [openFrameworks](#openframeworks)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
@@ -370,6 +371,7 @@
 * [Google JavaScript スタイルガイド](https://w.atwiki.jp/aias-jsstyleguide2/) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ja/) - Ivo Wetzel, HIRAKI Satoru(翻訳)
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content/) - azu
+* [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
@@ -499,6 +501,11 @@
 * [PHP 基礎文法最速マスター](http://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP4徹底攻略改訂版](https://prev.net-newbie.com/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
+
+
+#### Symfony
+
+* [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja/index.html)
 
 
 ### PowerShell

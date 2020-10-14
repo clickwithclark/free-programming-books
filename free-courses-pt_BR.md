@@ -18,11 +18,13 @@
 * [JavaScript](#javascript)
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [Python](#python)
+* [React Native](#react-native)
 * [Ruby](#ruby)
 * [Sass](#sass)
 * [Shell](#shell)
@@ -56,6 +58,7 @@
 ### Dart
 
 * [Curso de Dart Lang](https://www.udemy.com/curso-de-dart-lang-completo/) - Sthefane Soares (Udemy)
+* [Lógica de Programação com Dart](https://www.udemy.com/course/logica-de-programacao-com-dart/) - Jacob Moura (Udemy)
 
 
 ### Database
@@ -70,13 +73,17 @@
 
 ### Git
 
+* [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/) - Bruno Orlandi (Udemy)
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
 * [Git para iniciantes](https://www.udemy.com/git-para-iniciantes/) - Ricardo Netto (Udemy)
 
 
 ### Go
 
+* [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech (YouTube)
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
+* [Go – Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
+* [Programar em Go](https://www.youtube.com/playlist?list=PLV5KfEYwFC1G3r7XlgVCE5HVdVKj-UdRa) - Caffeine Algorithm (YouTube)
 
 
 ### Gulp
@@ -135,6 +142,11 @@
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
 
 
+### Kubernetes
+
+* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil(Youtube)
+
+
 ### Linux
 
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
@@ -149,6 +161,8 @@
 ### Node.js
 
 * [Criando APIs com NodeJs ](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io (YouTube)
+* [Curso do Básico ao CRUD Node.js](https://app.rocketseat.com.br/node/curso-node-js) - *registration required*
+* [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - NodeBR (EW)
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts (YouTube)
 
 
@@ -176,6 +190,13 @@
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
+* [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes (YouTube)
+
+
+### React Native
+
+* [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) -  Canal Geek Dev (YouTube)
+* [Curso do React Native implementando CRUD](https://app.rocketseat.com.br/node/curso-react-native) - *registration required*
 
 
 ### Ruby
@@ -183,6 +204,7 @@
 * [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Jackson Pires (YouTube)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
+* [Ruby Puro](https://onebitcode.com/course/ruby-puro/) - One Bit Code (Site One Bit Code)
 
 
 ### Sass
@@ -198,3 +220,8 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+
+
+### WordPress
+
+* [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Curso em vídeo (YouTube)

@@ -49,6 +49,7 @@
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
   * [Laravel](#laravel)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
@@ -88,6 +89,7 @@
 #### Работа с сетью
 
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 
 
@@ -143,6 +145,7 @@
 
 ### C Sharp
 
+* [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
 * [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
@@ -408,6 +411,11 @@
 
 * [Документация 5.x](https://laravel.ru/docs/v5)
 * [Перевод документации](http://laravel.su/docs)
+
+
+#### Symfony
+
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 
 ### Python
